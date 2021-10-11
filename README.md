@@ -1,5 +1,5 @@
 
-![Triangle](https://user-images.githubusercontent.com/21682081/136855390-e5bfff70-c318-492f-9300-c3c46c825538.gif)
+![lvcrft-31-nights-of-halloween-ftr](https://user-images.githubusercontent.com/21682081/136855468-f3cc684c-2800-4d23-bea5-8110ffab53dd.png)
 
 
 [![xKomorebi's GitHub stats](https://github-readme-stats.vercel.app/api?username=xKomorebi)](https://github.com/xKomorebi/github-readme-stats)
