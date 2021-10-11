@@ -1,4 +1,7 @@
 
+![Triangle](https://user-images.githubusercontent.com/21682081/136855390-e5bfff70-c318-492f-9300-c3c46c825538.gif)
+
+
 [![xKomorebi's GitHub stats](https://github-readme-stats.vercel.app/api?username=xKomorebi)](https://github.com/xKomorebi/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xKomorebi&layout=compact)](https://github.com/xKomorebi/github-readme-stats)
