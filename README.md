@@ -1,4 +1,4 @@
-### Hi there 👋
+
 [![xKomorebi's GitHub stats](https://github-readme-stats.vercel.app/api?username=xKomorebi)](https://github.com/xKomorebi/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xKomorebi&layout=compact)](https://github.com/xKomorebi/github-readme-stats)
