@@ -13,13 +13,13 @@
 A powerful file management tool that simplifies various file operations. It provides a user-friendly interface for organizing, renaming, and manipulating files efficiently.
 
 ## [traderManager](https://github.com/xKomorebi/traderManager)
-An advanced trading platform that enables users to manage their investment portfolios effectively. It offers real-time market data, intuitive trading tools, and portfolio analysis features.
+An advanced trading managing system that enables users to manage the Buy,Sell,Classnames easier.
 
 ## [CraftLogInspector](https://github.com/xKomorebi/CraftLogInspector):
-CraftLogInspector is a debugging tool for game development that helps analyze crafting system logs. It provides insights into crafting processes, material usage, and recipe interactions.
+CraftLogInspector is a debugging tool for game development that helps analyze minecraft system logs.
 
 ## [unicodeView](https://github.com/xKomorebi/unicodeView):
-unicodeView is a Unicode character viewer application that allows users to explore and search for Unicode characters. It provides a visual representation of characters along with their codes and descriptions.
+unicodeView is a Unicode character viewer application that allows users to explore and search for Unicode characters. It provides a visual representation of characters
 
 ---
 
